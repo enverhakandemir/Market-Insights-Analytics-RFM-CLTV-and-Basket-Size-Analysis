@@ -2,9 +2,9 @@
 This project presents an end-to-end customer analytics pipeline built on real-world retail data. Leveraging Python, PostgreSQL, and Power BI, we performed deep analytical processing and segmentation to uncover actionable insights for strategic decision-making in the e-commerce domain.
 
 # Note: 
-1- While the code examples in this repository use Excel files for demonstration purposes, all analyses were originally performed on a live PostgreSQL database connection in the actual project environment.
+1. While the code examples in this repository use Excel files for demonstration purposes, all analyses were originally performed on a live PostgreSQL database connection in the actual project environment.
 For examples of PostgreSQL integration and live data querying, please refer to my other GitHub repository: [SQL-Database-Connectivity](https://github.com/enverhakandemir/SQL-Database-Connectivity-and-Data-Exctraction-in-Python-Microsoft-SQL-MySQL-and-PostgreSQL).
-2- This project was presented via an interactive Power BI dashboard connected live to a SQL database. A static preview of the report is available as a PDF in this repository (PowerBI-4MULA-CRM-PROJECT.pdf) for demonstration purposes.
+2. This project was presented via an interactive Power BI dashboard connected live to a SQL database. A static preview of the report is available as a PDF in this repository (PowerBI-4MULA-CRM-PROJECT.pdf) for demonstration purposes.
 
 # Key Components:
 * Data Cleaning & Preprocessing: Over 2,000 lines of Python were used to clean, transform, and enrich the dataset for accurate downstream analysis.
